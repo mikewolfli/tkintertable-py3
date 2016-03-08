@@ -15,7 +15,7 @@ A sample application using these classes is included in the distribution.
 
 You can clone the current source using
 
-git clone https://github.com/dmnfarrell/tkintertable.git
+git clone https://github.com/mikewolfli/tkintertable-py3.git
 
 ##Usage
 
