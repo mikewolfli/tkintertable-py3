@@ -1,3 +1,5 @@
+###This is clone from the https://github.com/dmnfarrell/tkintertable.git, and has been revised to fit for python3, and the tablesapp.py test successfully. (I used the python 3.4.4)
+
 ##About
 
 Python uses a GUI library called Tkinter as default. This set of classes allows interactive spreadsheet-style tables to be added into an application.
@@ -133,8 +135,4 @@ Save and load from a file
 table.save('test.table')
 table.load('test.table')
 ```
-
-##See also
-
-https://github.com/dmnfarrell/pandastable
 
